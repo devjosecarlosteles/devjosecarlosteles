@@ -1,4 +1,4 @@
-### I study for love of technology and infinite curiosity
+I study for love of technology and infinite curiosity
 
 ![devjosecarlosteles GitHub stats](https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=radical)
 
