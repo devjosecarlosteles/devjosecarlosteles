@@ -10,6 +10,10 @@ I study for love of technology and infinite curiosity
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/"/>
 </a>
 
+Tecnologies
+
+![]['https://img.shields.io/npm/types/typescript?label=%20&logo=typescript&logoColor=white&style=flat-square']
+
 ![devjosecarlosteles GitHub stats](https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&langs_count=8)](https://github.com/devjosecarlosteles/github-readme-stats)
