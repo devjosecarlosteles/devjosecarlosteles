@@ -12,7 +12,7 @@ I study for love of technology and infinite curiosity
 
 Tecnologies
 
-![]['https://img.shields.io/npm/types/typescript?label=%20&logo=typescript&logoColor=white&style=flat-square']
+<img src="https://img.shields.io/npm/types/typescript?label=%20&logo=typescript&logoColor=white&style=flat-square" />
 
 ![devjosecarlosteles GitHub stats](https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=radical)
 
