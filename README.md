@@ -12,9 +12,9 @@ I study for love of technology and infinite curiosity
 
 Tecnologies
 
-<img src="https://img.shields.io/npm/types/typescript?label=%20&logo=typescript&logoColor=white&style=flat-square" />
+<img src="https://media-public.canva.com/MADnAwcGFgU/1/thumbnail_large.png" />
+<img src="https://media-public.canva.com/MADnA5ypSrY/1/thumbnail_large.png" />
 
-<img src="https://img.icons8.com/windows/32/000000/js-squared.png"/>
 
 ![devjosecarlosteles GitHub stats](https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=radical)
 
