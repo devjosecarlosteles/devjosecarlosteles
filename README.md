@@ -17,7 +17,7 @@ Tecnologies
 <img width='40px' src="https://media-public.canva.com/MADnA5ypSrY/1/thumbnail_large.png" />
 </div>
 
-<div style="display> flex">
+<div style="display: flex">
  
  ![devjosecarlosteles GitHub stats](https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=radical)
  
