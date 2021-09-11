@@ -16,7 +16,8 @@ Tecnologies
 <img width='40px' src="https://media-public.canva.com/MADnAwcGFgU/1/thumbnail_large.png" />
 <img width='40px' src="https://media-public.canva.com/MADnA5ypSrY/1/thumbnail_large.png" />
 </div>
-
+<div>
  ![devjosecarlosteles GitHub stats](https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=radical)
-
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&langs_count=8)](https://github.com/devjosecarlosteles/github-readme-stats)
+ </div>
