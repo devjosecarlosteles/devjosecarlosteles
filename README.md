@@ -24,3 +24,15 @@
  <a href="https://www.youtube.com/channel/devjosecarlosteles"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/josé-carlos-teles-4146a51b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+
+##
+
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/devjosecarlosteles/count.svg" />  
+</p>
+
+<!-- github workflow  -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
