@@ -25,7 +25,7 @@
  <a href="https://www.linkedin.com/in/josé-carlos-teles-4146a51b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-##
+## Visitas no pefil - Atividade
 
 <!-- visitors count  -->
 
