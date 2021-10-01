@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
+## My Skills
+ 
 <div>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
