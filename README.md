@@ -7,9 +7,9 @@
  
 ## MY FORMATIONS
 <div style="display: flex; justify-content: center; align-items: center; height: 50px">
- <img src="./assets/explorer.png" title="explorer"/>
- <img src="./assets/ignite.png" title="ignite"/> 
- <img src="./assets/nlw_return.png" title="nlw return"/>
+ <img width="120px" src="./assets/explorer.png" title="explorer"/>
+ <img width="95px" src="./assets/ignite.png" title="ignite"/> 
+ <img width="125px" src="./assets/nlw_return.png" title="nlw return"/>
 </div>
   
 ## MY SKILLS
