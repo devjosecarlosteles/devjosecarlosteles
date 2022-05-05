@@ -4,12 +4,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
 </div>
- 
+
 ## MY FORMATIONS
 <div style="display: flex; justify-content: center; align-items: center; height: 50px">
- <img width="120px" src="./assets/explorer.png" title="explorer"/>
+ <img width="120px" src="./assets/explorer.png" title=https://github.com/devjosecarlosteles/devjosecarlosteles"explorer"/>
  <img width="95px" src="./assets/ignite.png" title="ignite"/> 
  <img width="125px" src="./assets/nlw_return.png" title="nlw return"/>
+ <img width="135px" src="./assets/havard.png" title="Havard school"/>
 </div>
   
 ## MY SKILLS
