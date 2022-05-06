@@ -10,7 +10,6 @@
  <img width="120px" src="./assets/explorer.png" title=https://github.com/devjosecarlosteles/devjosecarlosteles"explorer"/>
  <img width="95px" src="./assets/ignite.png" title="ignite"/> 
  <img width="125px" src="./assets/nlw_return.png" title="nlw return"/>
- <img width="135px" src="./assets/havard.png" title="Havard school"/>
 </div>
   
 ## MY SKILLS
