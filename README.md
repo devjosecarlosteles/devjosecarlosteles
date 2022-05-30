@@ -1,19 +1,8 @@
-## Hello World! Eu sou José Carlos Teles 
-<div>
- <a href="https://www.github.com/devjosecarlosteles">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-## MY FORMATIONS
-<div style="display: flex; justify-content: center; align-items: center; height: 50px">
- <img width="120px" src="./assets/explorer.png" title=https://github.com/devjosecarlosteles/devjosecarlosteles"explorer"/>
- <img width="95px" src="./assets/ignite.png" title="ignite"/> 
- <img width="125px" src="./assets/nlw_return.png" title="nlw return"/>
-</div>
-  
-## MY SKILLS
- 
+<div style="display: flex">
+<div style="display: flex; flex-direction: column">
+<h2>Hello World</h2>
+<p>Olá sou José Carlos, desenvolvedor Backend na ArchOffice, fui finalista no Show Me The Code (Rocketseat)</p>
+<h2>Minhas Skilks</h2>
 <div>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
@@ -30,9 +19,23 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
- 
-##
+ </div>
+<img src="./assets/info.png">
+</div>
+<div>
+<h1>Github Status</h1>
+ <a href="https://www.github.com/devjosecarlosteles">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
+<h1>Minhas formações</h1>
+<div style="display: flex; justify-content: center; align-items: center; height: 50px">
+ <img width="120px" src="./assets/explorer.png" title=https://github.com/devjosecarlosteles/devjosecarlosteles"explorer"/>
+ <img width="95px" src="./assets/ignite.png" title="ignite"/> 
+ <img width="125px" src="./assets/nlw_return.png" title="nlw return"/>
+</div>
+<h1>Contatos</h1>
 <div>
  <a href="https://vm.tiktok.com/ZMLTBssCo/"><img width="98px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
  <a href="https://www.instagram.com/j0se_n3t0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -41,8 +44,7 @@
  <a href="https://www.linkedin.com/in/josé-carlos-teles-4146a51b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Visitas no pefil - Atividade
-
+<h1>Atividade</h1>
 <!-- visitors count  -->
 
 <p align="center" >   
