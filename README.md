@@ -1,6 +1,7 @@
-<div>
-<div align="left">
+<img align="left" src="./assets/info.png">
  <p><strong>Olá sou José Carlos, desenvolvedor Backend na ArchOffice</strong></p>
+ 
+<div align="left">
 <div>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
@@ -17,9 +18,6 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
  </div>
 </div>
- </div>
-<img align="right" src="./assets/info.png">
-
 <div>
 <h1>Github Status</h1>
  <a href="https://www.github.com/devjosecarlosteles">
