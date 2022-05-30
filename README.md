@@ -19,7 +19,7 @@
 </div>
  </div>
 <img align="right" src="./assets/info.png">
-</div>
+
 <div>
 <h1>Github Status</h1>
  <a href="https://www.github.com/devjosecarlosteles">
