@@ -21,7 +21,7 @@
 <div>
 <h1>Github Status</h1>
  <a href="https://www.github.com/devjosecarlosteles">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
