@@ -1,4 +1,4 @@
-<img align="left" src="./assets/info.png">
+<img align="left" src="./assets/profile.png">
  <p><strong>Olá sou José Carlos, desenvolvedor Backend na ArchOffice</strong></p>
  
 <div align="left">
