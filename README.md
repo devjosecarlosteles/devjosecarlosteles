@@ -1,7 +1,7 @@
-<table cellpadding="0" height="400px" >
+<table cellpadding="0"  >
  <tr style="padding: 0" >
-  <td align="top">
-   <div style="display: flex; justify-content: center; align-items: center; ">
+  <td align="top" width="40%">
+   <div align="center" >
     <a href="https://app.rocketseat.com.br/me/josecarlosteles"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=josecarlosteles&type=card" width="280" alt="José Carlos Teles's Rocket ID"/></a>
    </div>
   </td>
