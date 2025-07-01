@@ -14,7 +14,7 @@
  
    <div>
      <a href="https://vm.tiktok.com/ZMLTBssCo/"><img width="98px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-     <a href="https://www.instagram.com/j0se_n3t0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+     <a href="https://www.instagram.com/devjosecarlosteles"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
      <a href="https://www.youtube.com/channel/UCUzMYYPG2UnSvom-NRt9C4Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><br/>
      <a href="https://www.linkedin.com/in/josé-carlos-teles-4146a51b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </div>
